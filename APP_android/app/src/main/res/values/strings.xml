@@ -1,0 +1,17 @@
+<resources>
+
+    <!--    MainActivity - Strings-->
+    <string name="app_name">Simple Registration Form</string>
+    <string name="enter_the_details_for_social_account">Registro</string>
+    <string name="first_name">Nombre</string>
+    <string name="telefono">Telefono</string>
+    <string name="enter_your_email">Email</string>
+    <string name="enter_password">password</string>
+    <string name="signUp">Registrar</string>
+
+
+    <!--    User Data Show Activity - Strings-->
+    <string name="showUserData">TextView</string>
+    <string name="textview">TextView</string>
+
+</resources>
